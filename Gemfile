@@ -34,3 +34,5 @@ gem 'jquery-rails'
 
 # Гем, интегрирующий bootstrap
 gem 'twitter-bootstrap-rails'
+
+gem 'devise'
