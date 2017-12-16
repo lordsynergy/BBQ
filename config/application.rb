@@ -27,5 +27,10 @@ module Bbq
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+
+    # Настраиваем наше приложение на работу с русской локалью. Обратите,
+    # внимание, что в Rails 5 рекомендуется настройки локали сохранять в
+    # config/initializers/locale.rb
+    config.i18n.default_locale = :ru
   end
 end

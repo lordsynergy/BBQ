@@ -40,3 +40,9 @@ gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 
 gem 'devise'
+
+# Гем для перевода сообщений девайса
+gem 'devise-i18n'
+
+# Гем с русскими форматами (времени и пр.)
+gem 'rails-i18n'
