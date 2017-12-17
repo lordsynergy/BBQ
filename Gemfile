@@ -46,3 +46,8 @@ gem 'devise-i18n'
 
 # Гем с русскими форматами (времени и пр.)
 gem 'rails-i18n'
+
+gem 'carrierwave'
+gem 'rmagick'
+
+
