@@ -53,3 +53,4 @@ gem 'rmagick'
 gem 'fog-aws'
 
 
+

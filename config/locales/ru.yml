@@ -66,6 +66,9 @@ ru:
     many: 'ошибок'
 
   are_you_sure: 'Вы уверены?'
+  photos:
+    photo:
+      destroy_confirm: 'Удалить фотографию?'
 
   comments:
     comment:
